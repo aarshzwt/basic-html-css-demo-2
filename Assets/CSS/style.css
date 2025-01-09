@@ -116,7 +116,7 @@ button:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     padding: 2rem;
     border-radius: 10px;
-    margin: 7.3rem 0;
+    margin: 9rem 0;
 }
 
 h2 {
@@ -599,6 +599,9 @@ footer {
 }
 
 @media (max-width: 375px) {
+    body{
+        font-size: 0.8rem;
+    }
     #projects {
         padding: 1rem;
         margin-bottom: 2rem;
